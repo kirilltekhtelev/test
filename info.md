@@ -16,3 +16,5 @@
 
 
 # Main git commands 2 seminar
+
+>git checkout  -b <название ветки> - создание ветки и переход к ней
